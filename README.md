@@ -7,9 +7,9 @@
   * HTML
   * CSS (avec le framework Bootstrap)
 * BDD
-  * Une base de données SQL contenant les tables "films", "users", "reviews"
+  * Une base de données SQL
 * Documentation
-  * Markdown
+  * Markdown (README)
   * Google Docs
 
 Le site internet contient une page accueil, une page register/login, une page qui affiche le forum, une autre qui permet de créer un post dans ce forum et une dernière qui affiche notre profil d'utilisateur. 
