@@ -14,4 +14,4 @@
 
 Le site internet contient une page accueil, une page register/login, une page qui affiche le forum, une autre qui permet de créer un post dans ce forum et une dernière qui affiche notre profil d'utilisateur. 
 
-Pour plus d'informations sur le projet, voici le lien de la documentation : [<img src="https://github.com/twinh0/ProjM306/blob/main/ressources/gdocs.png" width=40px>](https://docs.google.com/document/d/1SY2b9zy-NT6Z6HdoPGxuk3QcPryVSh-j5v-ZIxdhbZg/edit?usp=sharing) 
+Pour plus d'informations sur le projet, voici le lien de la documentation : [<img src="https://github.com/twinh0/TPI/blob/main/ressources/gdocs.png" width=40px>](https://docs.google.com/document/d/1SY2b9zy-NT6Z6HdoPGxuk3QcPryVSh-j5v-ZIxdhbZg/edit?usp=sharing) 
