@@ -10,10 +10,10 @@ Ce dépôt GitHub contient le code ainsi que la documentation du projet de dipl�
 [Planning réel](https://docs.google.com/spreadsheets/d/1mfvJLIfTmpoam3GzSgvwZ1EVE-b5ORczZFU4QOhk158/edit?usp=sharing)
 
 ## Journal de bord :
-Le [journal de bord]() se trouve à la racine du dépôt.
+Le [journal de bord]() se trouve dans le dossier DOCUMENTATION du dépôt.
 
 
-Pour plus d'informations sur le projet, voici le lien de la documentation : [<img src="https://github.com/twinh0/TPI/blob/main/ressources/gdocs.png" width=40px>](https://docs.google.com/document/d/1SY2b9zy-NT6Z6HdoPGxuk3QcPryVSh-j5v-ZIxdhbZg/edit?usp=sharing) 
+Pour plus d'informations sur le projet, voir la [documentation](https://docs.google.com/document/d/1SY2b9zy-NT6Z6HdoPGxuk3QcPryVSh-j5v-ZIxdhbZg/edit?usp=sharing)   
 
 ## Le site
 ### Description 
