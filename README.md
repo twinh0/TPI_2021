@@ -3,6 +3,7 @@ Ce dépôt GitHub contient le code ainsi que la documentation du projet de dipl�
 
 ## Dates importantes  
 * Début du travail : Lundi 3 mai 2021
+* Visio avec les experts  : Jeudi 6 mai 2021
 * Fin du travail : Jeudi 20 mai 2021
 
 ## Plannings  
