@@ -20,6 +20,8 @@
 **14h50** : J'ai rapidement check ce que j'avais fait jusqu'à maintenant en corrigeant certaines choses. Je vais créer le squelette du projet dans Visual Studio Code et débuter l'implémentation gentiment. Je retournerai peut-être à la documentation plus tard si je pense avoir un bon début pour aujourd'hui. Dans tous les cas, je pense que les objectifs que je m'étais fixé pour la journée sont remplis. J'ai crée le dépôt, la liste des tâches, le planning prévisionnel, une première partie de la documentation et je m'attaque maintenant au code.  
 
 **15h30** : Après demande à mon maître d'apprentissage, je dois bien lui envoyer mon travail effectué à la fin de la journée. Je vais continuer mon début d'implémentation en cette fin d'après-midi avant de lui envoyer.
+
+**16h40** : Fin de la première journée, j'ai fini la base de données et j'ai commencé l'implémentation.
 ## 🟣04.05.2021
 
 ## 🟣05.05.2021
