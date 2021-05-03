@@ -1,4 +1,4 @@
-# CINEMA REVIEW
+# Vidéothèque
 Ce dépôt GitHub contient le code ainsi que la documentation du projet de diplôme CFC de Mehdi N'hamoucha.
 
 ## Dates importantes : 
