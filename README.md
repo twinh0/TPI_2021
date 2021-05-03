@@ -17,4 +17,4 @@ Pour plus d'informations sur le projet, voir la [documentation](https://docs.goo
 
 ## Le site
 ### Description 
-Cinema Reviews est un site premettant aux utilisateurs de poster et lire des reviews de films.
+Vidéothèque est un site premettant aux utilisateurs de poster et lire des reviews de films.
