@@ -24,7 +24,9 @@
 **16h40** : Fin de la première journée, j'ai fini la base de données et j'ai commencé l'implémentation.
 
 ## 🟣04.05.2021
-**7h30** : J'avais un petit trou de mémoire concernant l'utilisation de bootstrap alors j'ai regardé une ou deux vidéos explicatives sur le chemin de l'école. Je vais me concentrer sur la maquette du style à appliquer à toutes mes pages pour l'instant et je passerai à l'implémentation des pages en elles-même plus tard.
+**7h30** : J'avais un petit trou de mémoire concernant l'utilisation de bootstrap alors j'ai regardé une ou deux vidéos explicatives sur le chemin de l'école. Je vais me concentrer sur la maquette du style à appliquer à toutes mes pages pour l'instant et je passerai à l'implémentation des pages en elles-même plus tard. Pour aujourd'hui, je vais me fixer l'objectif d'avoir un style complet pour toutes mes pages, une page d'accueil redirigeant vers les autres pages correctement, et une création d'utilisateur qui fonctionne correctement avec la base de données.
+
+**9h40** : La page d'accueil est terminée et redirige correctement vers les autres pages (vides pour le moment). J'ai un bon début de style bootstrap avec une barre de navigation qui fonctionne comme prévu dans les maquettes vue utilisateur. A voir la partie bdd maintenant.
 ## 🟣05.05.2021
 
 ## 🟣06.05.2021
