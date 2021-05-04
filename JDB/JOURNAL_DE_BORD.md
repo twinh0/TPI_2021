@@ -22,8 +22,9 @@
 **15h30** : Après demande à mon maître d'apprentissage, je dois bien lui envoyer mon travail effectué à la fin de la journée. Je vais continuer mon début d'implémentation en cette fin d'après-midi avant de lui envoyer.
 
 **16h40** : Fin de la première journée, j'ai fini la base de données et j'ai commencé l'implémentation.
-## 🟣04.05.2021
 
+## 🟣04.05.2021
+**7h30** : J'avais un petit trou de mémoire concernant l'utilisation de bootstrap alors j'ai regardé une ou deux vidéos explicatives sur le chemin de l'école. Je vais me concentrer sur la maquette du style à appliquer à toutes mes pages pour l'instant et je passerai à l'implémentation des pages en elles-même plus tard.
 ## 🟣05.05.2021
 
 ## 🟣06.05.2021
