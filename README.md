@@ -11,11 +11,9 @@ Ce dépôt GitHub contient le code ainsi que la documentation du projet de dipl�
 [Planning réel](https://docs.google.com/spreadsheets/d/1mfvJLIfTmpoam3GzSgvwZ1EVE-b5ORczZFU4QOhk158/edit?usp=sharing)
 
 ## Journal de bord  
-Le [journal de bord]() se trouve dans le dossier DOCUMENTATION du dépôt.
-
-
-Pour plus d'informations sur le projet, voir la [documentation](https://docs.google.com/document/d/1SY2b9zy-NT6Z6HdoPGxuk3QcPryVSh-j5v-ZIxdhbZg/edit?usp=sharing)   
+Le [journal de bord]() se trouve dans le dossier DOCUMENTATION du dépôt.  
 
 ## Le site
 ### Description 
-Vidéothèque est un site premettant aux utilisateurs de poster et lire des reviews de films.
+Vidéothèque est un site premettant aux utilisateurs de poster et lire des reviews de films.  
+Pour plus d'informations sur le projet, voir la [documentation](https://docs.google.com/document/d/1SY2b9zy-NT6Z6HdoPGxuk3QcPryVSh-j5v-ZIxdhbZg/edit?usp=sharing)   
