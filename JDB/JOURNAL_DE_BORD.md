@@ -28,7 +28,7 @@
 
 **9h40** : La page d'accueil est terminée et redirige correctement vers les autres pages (vides pour le moment). J'ai un bon début de style bootstrap avec une barre de navigation qui fonctionne comme prévu dans les maquettes vue utilisateur. A voir la partie bdd maintenant.
 
-**11h40** : Le style est finalisé, je suis passé sur la création d'utilisateur. Le formulaire est créé et je suis en train de gérer toutes les exceptions telles que "syntaxe emali incorrecte" ou encore "les 2 mdp ne concordent pas". Je continuerai après ma pause.
+**11h40** : Le style est finalisé, je suis passé sur la création d'utilisateur. Le formulaire est créé et je suis en train de gérer toutes les exceptions telles que "syntaxe email incorrecte" ou encore "les 2 mdp ne concordent pas". Je continuerai après ma pause.
   
 **12h40** : Je continue comme prévu là-dessus.
 
