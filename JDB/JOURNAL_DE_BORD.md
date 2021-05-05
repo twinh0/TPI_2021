@@ -43,6 +43,8 @@
 
 **9h40** : Le formulaire de login demande bien le pseudo, mot de passe et email de l'utilisateur et il respecte les mêmes critères de validité que sur la page Register. Je continuerai après ma pause.
 
+**11h40** : J'ai bien avancé sur le login et je pense pouvoir finaliser ça après ma pause. Si c'est le cas, il me restera à faire fonctionner gestion d'utilisateurs dans son ensemble(création, connection, accès aux pages selon si connecté ou non, possibilité de se déconnecter lorsque connecté, etc...) et tester le tout. 
+
 ## 🟣06.05.2021
 
 ## 🟣07.05.2021
