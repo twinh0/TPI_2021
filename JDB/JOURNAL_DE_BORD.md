@@ -32,9 +32,10 @@
   
 **12h40** : Je continue comme prévu là-dessus.
 
-**16h40** : J'ai continué à travaillé sur le formulaire de création d'utilisateur, il y a un problème au niveau de l'ordre dans lequel les données sont enregistrées que j'ai détecté, je le règlerai demain matin. À part ça, le formulaire et ses conditions fonctionnent. L'objectif de la journée est presque entièrement rempli, le style s'applique correctement aux pages du site, la page d'accueil est complète et redirige vers chaque autre page. J'ai malheureusement perdu un peu de temps sur le formulaire à cause d'erreurs bêtes de requètes de la base de données, mais je suis quand même satisfait d'avoir rempli mes objectifs de la journée dans les temps du planning prévisionnel.
+**16h40** : J'ai continué à travailler sur le formulaire de création d'utilisateur, il y a un problème au niveau de l'ordre dans lequel les données sont enregistrées que j'ai détecté, je le règlerai demain matin. À part ça, le formulaire et ses conditions fonctionnent. L'objectif de la journée est presque entièrement rempli, le style s'applique correctement aux pages du site, la page d'accueil est complète et redirige vers chaque autre page. J'ai malheureusement perdu un peu de temps sur le formulaire à cause d'erreurs bêtes de requètes de la base de données, mais je suis quand même satisfait d'avoir rempli mes objectifs de la journée dans les temps du planning prévisionnel.
 
 ## 🟣05.05.2021
+**7h30** : Début de la journée, je vais me concentrer sur le fait de régler ce problème de formulaire register. Pour résumer, la table utilisateur est réglée de telle sorte à ce qu'elle doive reçevoir les données dans cet ordre précis : idUtilisateur, pseudo, mot de passe, email, admin. Le problème est simplement que j'envoie l'email à la place du mdp et vice-versa. Une fois ce problème réglé, je passerai sur la page login afin d'accorder les 2. J'essaierai d'avancer le plus possible sur cette dernière, l'objectif étant (selon le planning prévisionnel) d'avoir les 2 pages entièrement fonctionnelles avant demain soir.
 
 ## 🟣06.05.2021
 
