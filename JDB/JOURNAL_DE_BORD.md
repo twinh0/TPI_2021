@@ -41,6 +41,8 @@
 
 **8h04** : Après phase de test, toutes les fonctionnalités du formulaire register marchent sans exception. Je me mets maintenant au login afin de compléter tout le côté login/register et pouvoir passer plus tard au coeur du site : le forum.
 
+**9h40** : Le formulaire de login demande bien le pseudo, mot de passe et email de l'utilisateur et il respecte les mêmes critères de validité que sur la page Register. Je continuerai après ma pause.
+
 ## 🟣06.05.2021
 
 ## 🟣07.05.2021
