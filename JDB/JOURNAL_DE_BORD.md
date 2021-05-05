@@ -45,7 +45,10 @@
 
 **11h40** : J'ai bien avancé sur le login et je pense pouvoir finaliser ça après ma pause. Si c'est le cas, il me restera à faire fonctionner gestion d'utilisateurs dans son ensemble(création, connection, accès aux pages selon si connecté ou non, possibilité de se déconnecter lorsque connecté, etc...) et tester le tout. 
 
-**12h40** : Je continue comme prévu sur le login
+**12h40** : Je continue comme prévu sur le login.
+
+**13h15** : J'arrive à faire passer les informations dans la boucle et à renvoyer un message de confirmation de login, mais les données n'arrivent nul part et on ne se connecte pas. Je continue.
+
 ## 🟣06.05.2021
 
 ## ⚪Congé du 07-09.05.2021
