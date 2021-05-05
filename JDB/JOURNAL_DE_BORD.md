@@ -43,11 +43,13 @@
 
 **9h40** : Le formulaire de login demande bien le pseudo, mot de passe et email de l'utilisateur et il respecte les mêmes critères de validité que sur la page Register. Je continuerai après ma pause.
 
-**11h40** : J'ai bien avancé sur le login et je pense pouvoir finaliser ça après ma pause. Si c'est le cas, il me restera à faire fonctionner gestion d'utilisateurs dans son ensemble(création, connection, accès aux pages selon si connecté ou non, possibilité de se déconnecter lorsque connecté, etc...) et tester le tout. 
+**11h40** : J'ai bien avancé sur le login et je pense pouvoir finaliser ça dans l'après-midi. Si c'est le cas, il me restera à faire fonctionner la gestion d'utilisateurs dans son ensemble(création, connection, accès aux pages selon si connecté ou non, possibilité de se déconnecter lorsque connecté, etc...) et tester le tout. 
 
 **12h40** : Je continue comme prévu sur le login.
 
 **13h15** : J'arrive à faire passer les informations dans la boucle et à renvoyer un message de confirmation de login, mais les données n'arrivent nul part et on ne se connecte pas. Je continue.
+
+**14h15** : Lorsqu'on envoie son formulaire de login, la session retient bien toutes les infos entrées (pseudo, mdp, email). A partir de là, le reste devrait poser moins de finaliser ça. 
 
 ## 🟣06.05.2021
 
