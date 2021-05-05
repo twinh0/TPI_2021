@@ -47,10 +47,11 @@
 
 **12h40** : Je continue comme prévu sur le login.
 
-**13h15** : J'arrive à faire passer les informations dans la boucle et à renvoyer un message de confirmation de login, mais les données n'arrivent nul part et on ne se connecte pas. Je continue.
+**13h15** : J'arrive à faire passer les informations dans la boucle et à renvoyer un message de confirmation de login, mais les données n'arrivent nul part et on ne se connecte pas. Aussi, on peut entrer n'importe quelles données et la confirmation de connexion s'affichera quand même, ce qui n'est pas bon. Je continue.
 
-**14h35** : Lorsqu'on envoie son formulaire de login, la session retient bien toutes les infos entrées (pseudo, mdp, email). A partir de là, le reste devrait poser moins de finaliser ça. 
+**14h35** : La session retient bien toutes les infos entrées (pseudo, mdp, email). A partir de là, le reste devrait poser moins de problèmes. 
 
+**15h20** : Lorsqu'on se login, les infos sont retenues et gardées à travers toutes les pages, ce qui fait que l'utilisateur est bien connecté. La page déconnexion marche parfaitement également. Il reste ce problème de validation du login que je dois régler. 
 
 ## 🟣06.05.2021
 
