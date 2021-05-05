@@ -49,7 +49,8 @@
 
 **13h15** : J'arrive à faire passer les informations dans la boucle et à renvoyer un message de confirmation de login, mais les données n'arrivent nul part et on ne se connecte pas. Je continue.
 
-**14h15** : Lorsqu'on envoie son formulaire de login, la session retient bien toutes les infos entrées (pseudo, mdp, email). A partir de là, le reste devrait poser moins de finaliser ça. 
+**14h35** : Lorsqu'on envoie son formulaire de login, la session retient bien toutes les infos entrées (pseudo, mdp, email). A partir de là, le reste devrait poser moins de finaliser ça. 
+
 
 ## 🟣06.05.2021
 
