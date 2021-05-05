@@ -37,6 +37,10 @@
 ## 🟣05.05.2021
 **7h30** : Début de la journée, je vais me concentrer sur le fait de régler ce problème de formulaire register. Pour résumer, la table utilisateur est réglée de telle sorte à ce qu'elle doive reçevoir les données dans cet ordre précis : idUtilisateur, pseudo, mot de passe, email, admin. Le problème est simplement que j'envoie l'email à la place du mdp et vice-versa. Une fois ce problème réglé, je passerai sur la page login afin d'accorder les 2. J'essaierai d'avancer le plus possible sur cette dernière, l'objectif étant (selon le planning prévisionnel) d'avoir les 2 pages entièrement fonctionnelles avant demain soir.
 
+**7h59** : J'ai réussi à régler le problème dans le code comme dans la base de données, un autre problème était que j'avais réglé le champ "mot de passe" de telle sorte à ce qu'il n'accepte que des chaines d'une 40aine de caractères, n'ayant pas prévu que j'allais le hasher avant de l'insérer (c'est à dire le transformer en une chaine de caractères aléatoires pour le protéger mais par conséquent augmenter considérablement son nombre de caractères).
+
+**8h04** : Après phase de test, toutes les fonctionnalités du formulaire register marchent sans exception. Je me mets maintenant au login afin de compléter tout le côté login/register et pouvoir passer plus tard au coeur du site : le forum.
+
 ## 🟣06.05.2021
 
 ## 🟣07.05.2021
