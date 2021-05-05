@@ -51,7 +51,7 @@
 
 **14h35** : La session retient bien toutes les infos entrées (pseudo, mdp, email). A partir de là, le reste devrait poser moins de problèmes. 
 
-**15h20** : Lorsqu'on se login, les infos sont retenues et gardées à travers toutes les pages, ce qui fait que l'utilisateur est bien connecté. La page déconnexion marche parfaitement également. Il reste ce problème de validation du login que je dois régler. 
+**16h40** : Lorsqu'on se login, les infos sont retenues et gardées à travers toutes les pages, ce qui fait que l'utilisateur est bien connecté. La page déconnexion marche parfaitement également. Il reste ce problème de validation du login que je dois régler. J'ai déjà créé le formulaire de création de critique.
 
 ## 🟣06.05.2021
 
