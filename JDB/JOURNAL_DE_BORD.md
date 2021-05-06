@@ -56,7 +56,7 @@
 ## 🟣06.05.2021
 **12h40** : Je ne me suis pas rendu à l'école ce matin, ne me sentant pas bien ni en mesure de travailler. Je reprends donc le travail maintenant, avec pour objectif de boucler cette partie login avant la fin de l'après-midi. 
 
-
+**13h26** : J'arrive à faire marcher la connexion uniquement si toutes les infos correspondent à un seul et même compte. (Avant, on pouvait entrer une info présente dans au moins un compte dans chaque champ et être connecté).
 
 
 ## ⚪Congé du 07-09.05.2021
