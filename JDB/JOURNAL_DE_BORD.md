@@ -58,8 +58,12 @@
 
 **13h26** : J'arrive à faire marcher la connexion uniquement si toutes les infos correspondent à un seul et même compte. (Avant, on pouvait entrer une info présente dans au moins un compte dans chaque champ et être connecté). 
  
+ **13h38** : J'ai demandé à Mr.Jossi si le fait que le formulaire login ne demande que le mot de passe et l'email, et il m'a repondu que non, car la plupart des sites marchent en effet de cette manière. Cela m'arrange, car mes fonctions posaient problème à ce niveau, et désormais, je n'ai qu'à vérifier si l'user existe selon le mdp et l'email.  
+ 
 **13h45** : Problème : il faut recupérer et faire passer le pseudo aussi lorsqu'on se connecte avec un mdp et un email, ce qui ne se passe pas pour l'instant. Les autres données sont bien envoyées sur les autres pages aussi.
 
+**14h30** : Visioconférence avec les experts. J'ai fait une mise au point avec eux. Pour le moment, aucun problème ou confusion à signaler. Je continue mon travail en espérant finaliser cette tâche avant demain.
+ 
 ## ⚪Congé du 07-09.05.2021
 
 ## 🟣10.05.2021
