@@ -54,6 +54,10 @@
 **16h40** : Lorsqu'on se login, les infos sont retenues et gardées à travers toutes les pages, ce qui fait que l'utilisateur est bien connecté. La page déconnexion marche parfaitement également. Il reste ce problème de validation du login que je dois régler. J'ai déjà créé le formulaire de création de critique.
 
 ## 🟣06.05.2021
+**12h40** : Je ne me suis pas rendu à l'école ce matin, ne me sentant pas bien ni en mesure de travailler. Je reprends donc le travail maintenant, avec pour objectif de boucler cette partie login avant la fin de l'après-midi. 
+
+
+
 
 ## ⚪Congé du 07-09.05.2021
 
