@@ -71,6 +71,8 @@
 
 **8h30** : Je me demande comment ajouter une image dans le champ du même nom manuellement dans la bdd. Je sais comment m'y prendre lorsqu'il s'agit d'en ajouter une via un formulaire, mais ici ce n'est pas le cas. J'ai donc posé la question à M. Jossi. En attendant la réponse, je continue sur la documentation.
 
+**10h05** : J'ai reçu un appel de M. Jossi pour réponde à ma question. Il m'a également donné des conseils sur la structure de mon git. J'ai noté : des liens pas à jour, de la redondance (plusieurs répertoires pour la même chose), le code en .zip au lieu d'être en dur.
+
 ## 🟣11.05.2021
 
 ## 🟣12.05.2021
