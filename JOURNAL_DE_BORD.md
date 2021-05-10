@@ -73,6 +73,9 @@
 
 **10h05** : J'ai reçu un appel de M. Jossi pour réponde à ma question. Il m'a également donné des conseils sur la structure de mon git. J'ai noté : des liens pas à jour, de la redondance (plusieurs répertoires pour la même chose), le code en .zip au lieu d'être en dur.
 
+**12h40** : J'ai le style de la page et la bdd.
+
+
 ## 🟣11.05.2021
 
 ## 🟣12.05.2021
