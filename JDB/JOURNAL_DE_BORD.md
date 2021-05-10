@@ -69,7 +69,7 @@
 ## 🟣10.05.2021
 **7h40** : Je dois avouer que la perte de temps sur la page login m'a légèrement stressé. Ce weekend, j'ai pensé à certaines manières de régler le problème de vérifications des champs que me pose cette page depuis quelques jours, et je les ai testé en arrivant ce matin. Changer la condition de verification des champs était bien la chose à faire mais je ne trouvais pas comment. Je l'ai changé afin qu'elle vérifie la taille de l'array (tableau de données) qu'envoyait le bouton submit sur lequel on clique. Si elle est de 0, ça veut dire que l'array est vide et que, par conséquent, on a envoyé aucune donnée et le login a échoué. Cette méthode marche pour le moment. J'ai donc réglé le problème de la page login et peux passer à l'implémentation du reste du site pour le moment. Mon objectif de la journée serait d'avoir un début de page "Créer un post" avec une liste de films insérée dans la base de données. Le formulaire devrait nous proposer de choisir un film existant dans la bdd et de rédiger une critique avec une note à son sujet. Je vais commencer par ajouter les films dans la bdd.
 
-**8h30** : Je me demande comment ajouter une image dans le champ du même nom manuellement dans la bdd. Je sais comment m'y prendre lorsqu'il s'agit d'en ajouter une via un formulaire, mais ici ce n'est pas le cas. J'ai donc posé la question à M. Jossi.
+**8h30** : Je me demande comment ajouter une image dans le champ du même nom manuellement dans la bdd. Je sais comment m'y prendre lorsqu'il s'agit d'en ajouter une via un formulaire, mais ici ce n'est pas le cas. J'ai donc posé la question à M. Jossi. En attendant la réponse, je continue sur la documentation.
 
 ## 🟣11.05.2021
 
