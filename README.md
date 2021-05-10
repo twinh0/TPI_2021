@@ -11,7 +11,7 @@ Ce dépôt GitHub contient le code ainsi que la documentation du projet de dipl�
 [Planning réel](https://docs.google.com/spreadsheets/d/1A_Wh-GUEi6YsBg6zkwSImF-5LhRdY5Z5xntJdcK4-hw/edit?usp=sharing)
 
 ## Journal de bord  
-Le [journal de bord](https://github.com/twinh0/TPI_2021/blob/main/JDB/JOURNAL_DE_BORD.md) se trouve dans le dossier DOCUMENTATION du dépôt.  
+Le [journal de bord](https://github.com/twinh0/TPI_2021/blob/main/JOURNAL_DE_BORD.md) se trouve à la racine du dépôt.  
 
 ## Le site
 ### Description 
