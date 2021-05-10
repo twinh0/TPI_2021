@@ -75,6 +75,7 @@
 
 **12h40** : J'ai le style de la page et la bdd.
 
+**15h30** : M. Jossi m'a communiqué par mail une liste de choses qui ne vont pas dans mon travail et que je dois améliorer comme un planning mauvais ou des requètes SQL pas toujours sécurisées entre autres. Je m'arrête de travailler sur ce que je faisais jusqu'à ce que tout soit réglé. L'objectif est de régler cela avant sa visite prévue pour mercredi. 
 
 ## 🟣11.05.2021
 
