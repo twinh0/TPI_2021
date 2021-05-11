@@ -80,7 +80,7 @@
 ## 🟣11.05.2021
 **7h30** : Comme prévu, je vais me concentrer sur les problèmes pointés par M. Jossi avant de me remettre sur les pages sur lesquelles je travaille. 
 
-
+**8h46** : J'ai posé plusieurs questions à mon maître d'apprentissage sur l'énoncé et le planning prévisionnel, j'aurais besoin de sa réponse pour savoir si les modifications sont valides. En attendant, je continue sur la documentation pour m'avancer au maximum. 
 
 ## 🟣12.05.2021
 
