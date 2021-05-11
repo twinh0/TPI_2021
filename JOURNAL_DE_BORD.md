@@ -84,7 +84,7 @@
 
 **11h40** : J'ai fait une nouvelle version de mes plannings et continué la documentation. Je continuerai sur la correction des problèmes pointés par M. Jossi pendant l'après-midi.
 
-
+**16h40** : J'ai bien avancé sur la page de création de posts, je devrais pouvoir la faire marcher demain. Afficher ces derniers sur la page Forum ne devrait pas poser de problèmes non-plus. Je testerai certaines choses demain matin pour finaliser la page création de posts.
 
 ## 🟣12.05.2021
 
