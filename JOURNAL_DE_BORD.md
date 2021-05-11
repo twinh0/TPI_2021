@@ -78,10 +78,13 @@
 **15h30** : M. Jossi m'a communiqué par mail une liste de choses qui ne vont pas dans mon travail et que je dois améliorer comme un planning mauvais ou des requètes SQL pas toujours sécurisées entre autres. Je m'arrête de travailler sur ce que je faisais jusqu'à ce que tout soit réglé. L'objectif est de régler cela avant sa visite prévue pour mercredi. 
 
 ## 🟣11.05.2021
+**7h30** : Comme prévu, je vais me concentrer sur les problèmes pointés par M. Jossi avant de me remettre sur les pages sur lesquelles je travaille. 
+
+
 
 ## 🟣12.05.2021
 
-## ⚪Congé du 13-16.05.2021)
+## ⚪Congé du 13-16.05.2021
 
 ## 🟣17.05.2021
 
