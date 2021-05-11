@@ -82,6 +82,10 @@
 
 **8h46** : J'ai posé plusieurs questions à mon maître d'apprentissage sur l'énoncé et le planning prévisionnel, j'aurais besoin de sa réponse pour savoir si les modifications sont valides. En attendant, je continue sur la documentation pour m'avancer au maximum. 
 
+**11h40** : J'ai fait une nouvelle version de mes plannings et continué la documentation. Je continuerai sur la correction des problèmes pointés par M. Jossi pendant l'après-midi.
+
+
+
 ## 🟣12.05.2021
 
 ## ⚪Congé du 13-16.05.2021
