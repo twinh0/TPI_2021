@@ -87,6 +87,13 @@
 **16h40** : J'ai bien avancé sur la page de création de posts, je devrais pouvoir la faire marcher demain. Afficher ces derniers sur la page Forum ne devrait pas poser de problèmes non-plus. Je testerai certaines choses demain matin pour finaliser la page création de posts.
 
 ## 🟣12.05.2021
+**7h30** : Aujourd'hui, mes objectifs sont de finaliser la page de création de posts et avancer le plus possible sur le reste.
+
+**9h19** : J'ai réglé plusieurs problèmes :  
+Général : Il est maintenant impossible de se rendre sur les pages suivantes sans être connecté : Profil, Créer post, Déconnexion.
+Page login : le pseudo était mal envoyé ce qui faisait que je ne pouvais le récuperer dans les autres pages comme la page profil (pour le modifier notamment). C'est désormais réglé.
+Page profil : Les informations de l'utilisateur apparaissent dans son profil et devraient bientôt être modifiables.
+Page créer post : Les informations du post sont bien récupérées après qu'on ait cliqué sur le bouton submit. Il reste maintenant à régler les conditions de validation pour qu'elles soient envoyées dans la base.
 
 ## ⚪Congé du 13-16.05.2021
 
