@@ -95,9 +95,9 @@ Page login : le pseudo était mal envoyé ce qui faisait que je ne pouvais le r�
 Page profil : Les informations de l'utilisateur apparaissent dans son profil et devraient bientôt être modifiables.
 Page créer post : Les informations du post sont bien récupérées après qu'on ait cliqué sur le bouton submit. Il reste maintenant à régler les conditions de validation pour qu'elles soient envoyées dans la base.
 
-**12h40** : Il semblerait qu'il y ait deux ou trois erreurs dans mes fonctions qui posent problème dans la modification d'utilisateur ainsi que dans la création de posts. Je dois me renseigner sur comment les faire marcher avec ma base de données. Si je les règle, deux des plus grosses tâches du projet seront accomplies, et il ne me restera que :
-🔴 La lecture de posts : simple echo de code HTML avec dedans les données de post récupérées précédemment. 
-🔴 L'affichage de notre vidéothèque : pareil mais ici avec la modification/suppression en plus. Une fois ma fonction de modification d'utilisateur finie, il ne me restera qu'à l'adapter aux données d'un film à la place.
+**12h40** : Il semblerait qu'il y ait deux ou trois erreurs dans mes fonctions qui posent problème dans la modification d'utilisateur ainsi que dans la création de posts. Je dois me renseigner sur comment les faire marcher avec ma base de données. Si je les règle, deux des plus grosses tâches du projet seront accomplies, et il ne me restera que :  
+🔴 La lecture de posts : simple echo de code HTML avec dedans les données de post récupérées précédemment.   
+🔴 L'affichage de notre vidéothèque : pareil mais ici avec la modification/suppression en plus. Une fois ma fonction de modification d'utilisateur finie, il ne me restera qu'à l'adapter aux données d'un film à la place.  
 🔴 La page info des films : Ici aussi, simple code html comblé par les données du film en question. 
 
 Après cela, une phase de tests devrait 
