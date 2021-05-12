@@ -100,7 +100,11 @@ Page créer post : Les informations du post sont bien récupérées après qu'on
 🔴 L'affichage de notre vidéothèque : pareil mais ici avec la modification/suppression en plus. Une fois ma fonction de modification d'utilisateur finie, il ne me restera qu'à l'adapter aux données d'un film à la place.  
 🔴 La page info des films : Ici aussi, simple code html comblé par les données du film en question. 
 
-Après cela, une phase de tests devrait 
+Après cela, je ferai une phase de tests finale et le projet devrait être terminé.
+
+**14h00** : M. Jossi m'a rendu visite pour reponder à mes questions et pointer les problèmes de mon travail jusqu'à maintenant. J'ai noté : analyse incomplète, noms de variables irréguliers, données non-sécurisées, base de données incomplète (table de liaison manquante). Je vais me concentrer sur la résolution de ces problèmes importants avant de continuer.  
+
+
 ## ⚪Congé du 13-16.05.2021
 
 ## 🟣17.05.2021
