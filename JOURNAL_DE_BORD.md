@@ -104,6 +104,7 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 
 **14h00** : M. Jossi m'a rendu visite pour reponder à mes questions et pointer les problèmes de mon travail jusqu'à maintenant. J'ai noté : analyse incomplète, noms de variables irréguliers, données non-sécurisées, base de données incomplète (table de liaison manquante). Je vais me concentrer sur la résolution de ces problèmes importants avant de continuer.  
 
+**16h40** : J'ai réglé la quasi totalité des problèmes soulevés par M. Jossi pour le moment, reste à éventuellement rajouter des détails dans mon analyse si certains manquent. Je dois maintenant me concentrer sur le travail pour perdre le moins de temps possible et pouvoir le terminer à 100%. 
 
 ## ⚪Congé du 13-16.05.2021
 
