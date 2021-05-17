@@ -109,7 +109,16 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 ## ⚪Congé du 13-16.05.2021
 
 ## 🟣17.05.2021
-**7h30** : Je m'attaque à la lecture de posts et la page info des films. Cela ne devrait pas me prendre trop de temps comme expliqué précedemment. Après cela, je continuerai sur l'affichage de la vidéothèque et des critiques de l'utilisateur. J'ai groupé ces 4 tâches par 2 car elles sont plus ou moins complémentaires l'une pour l'autre, dans le sens où après en avoir fini une, l'autre deviens alors simple.  
+**7h30** : Je m'attaque à la création/lecture de posts et la page info des films. Cela ne devrait pas me prendre trop de temps comme expliqué précedemment. Après cela, je continuerai sur l'affichage de la vidéothèque et des critiques de l'utilisateur. J'ai groupé ces 4 tâches par 2 car elles sont plus ou moins complémentaires l'une pour l'autre, dans le sens où après en avoir fini une, l'autre deviens alors simple.  
+
+**8h44** : J'ai terminé la création de posts.
+
+**9h40** : La lecture des posts et la création automatique de la page info des films est terminée. Désormais, lorsqu'on clique sur le nom du film dans une critique, cela nous redirige vers sa page info qui contient toutes ses infos ainsi qu'un bouton pour l'ajouter à sa vidéothèque. Il me restera à faire aussi apparaître toutes les critiques existantes du dit film. Pour le moment, je m'attaque à la vidéothèque/gestion de critiques de l'utilisateur.
+
+**11h40** : Les films ajoutés à la vidéothèque d'un utilisateur peuvent être vus et retirés de cette dernière dans la page profil de cet utilisateur. 
+
+**15h15** : La création, validation, lecture de posts est terminée. Un utilisateur voit dans la partie "mes critiques" les critiques qu'il a posté et si elles ont été validées ou non. Il me reste à afficher les critiques d'un film sur la page personalisée de ce dernier.
+
 
 ## 🟣18.05.2021
 
