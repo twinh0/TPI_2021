@@ -102,13 +102,14 @@ Page créer post : Les informations du post sont bien récupérées après qu'on
 
 Après cela, je ferai une phase de tests finale et le projet devrait être terminé.
 
-**14h00** : M. Jossi m'a rendu visite pour reponder à mes questions et pointer les problèmes de mon travail jusqu'à maintenant. J'ai noté : analyse incomplète, noms de variables irréguliers, données non-sécurisées, base de données incomplète (table de liaison manquante). Je vais me concentrer sur la résolution de ces problèmes importants avant de continuer.  
+**14h00** : M. Jossi m'a rendu visite pour repondre à mes questions et pointer les problèmes de mon travail jusqu'à maintenant. J'ai noté : analyse incomplète, noms de variables irréguliers, données non-sécurisées, base de données incomplète (table de liaison manquante). Je vais me concentrer sur la résolution de ces problèmes importants avant de continuer.  
 
-**16h40** : J'ai réglé la quasi totalité des problèmes soulevés par M. Jossi pour le moment, reste à éventuellement rajouter des détails dans mon analyse si certains manquent. Je dois maintenant me concentrer sur le travail pour perdre le moins de temps possible et pouvoir le terminer à 100%. 
+**16h40** : J'ai réglé la quasi totalité des problèmes soulevés par M. Jossi pour le moment ainsi que la modification d'utilisateur. Il reste peut-être rajouter des détails dans mon analyse technique si certains manquent. Je dois maintenant me concentrer sur le travail pour perdre le moins de temps possible et pouvoir le terminer à 100%. 
 
 ## ⚪Congé du 13-16.05.2021
 
 ## 🟣17.05.2021
+**7h30** : Je m'attaque à la lecture de posts et la page info des films. Cela ne devrait pas me prendre trop de temps comme expliqué précedemment. Après cela, je continuerai sur l'affichage de la vidéothèque et des critiques de l'utilisateur. J'ai groupé ces 4 tâches par 2 car elles sont plus ou moins complémentaires l'une pour l'autre, dans le sens où après en avoir fini une, l'autre deviens alors simple.  
 
 ## 🟣18.05.2021
 
