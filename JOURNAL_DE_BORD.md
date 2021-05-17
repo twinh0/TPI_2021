@@ -119,7 +119,7 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 
 **15h15** : La création, validation, lecture de posts est terminée. Un utilisateur voit dans la partie "mes critiques" les critiques qu'il a posté et si elles ont été validées ou non. Il me reste à afficher les critiques d'un film sur la page personalisée de ce dernier.
 
-
+**16h40** : Il ne me reste que la liste de critiques à afficher dans la page info des films et j'aurai déjà une version fonctionnelle du site avec toutes les fonctionnalités présentes. Pour l'instant, un tableau s'affiche corrèctement, je dois simplement faire en sorte que seules les critiques du film en question apparaissent. Je finirai certainement demain, puis je passerai à la documentation.
 ## 🟣18.05.2021
 
 ## 🟣19.05.2021
