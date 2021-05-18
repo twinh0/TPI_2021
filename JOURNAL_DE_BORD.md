@@ -122,6 +122,8 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 **16h40** : Il ne me reste que la liste de critiques à afficher dans la page info des films et j'aurai déjà une version fonctionnelle du site avec toutes les fonctionnalités présentes. Pour l'instant, un tableau s'affiche corrèctement, je dois simplement faire en sorte que seules les critiques du film en question apparaissent. Je finirai certainement demain, puis je passerai aux commentaires et à la documentation du projet.
 ## 🟣18.05.2021
 
+**8h08** : J'ai finalisé l'affichage des critiques sur la page info des films. Désormais, seules les critiques correspondant au film sur lequel on est apparaissent. Aujourd'hui, je vais me focus sur : finaliser le site (modification de critique, commentaires, sécurisation, continuer la documentation, 
+
 ## 🟣19.05.2021
 
 ## 🟣20.05.2021  
