@@ -124,6 +124,11 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 
 **8h08** : J'ai finalisé l'affichage des critiques sur la page info des films. Désormais, seules les critiques correspondant au film sur lequel on est apparaissent. Aujourd'hui, je vais me focus sur : finaliser le site (modification de critique, commentaires, sécurisation, continuer la documentation).
 
+**16h40** : J'ai bien avancé sur la documentation et à ce stade, j'ai presque entièrement terminé mon application à l'exception de la modification de critiques qui pose un léger problème. Cela devrait être réglé sans trop de mal avant la fin du délai. 
+
 ## 🟣19.05.2021
+**7h30** : Je vais me concentrer pour cette journée sur : avancer un maximum la documentation avec les tests que j'aurai effectué, finir de commenter le code, régler les derniers problèmes dans le code.
+
+**8h40** : J'ai entièrement fini de commenter le code du projet, je continue sur la documentation.
 
 ## 🟣20.05.2021  
