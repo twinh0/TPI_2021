@@ -131,4 +131,7 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 
 **8h40** : J'ai entièrement fini de commenter le code du projet, je continue sur la documentation.
 
+**16h** : Mr. Jossi m'a fait plusieurs remarques sur ce qu'il manquait dans le site. Je les ai noté et je me concentrerai dessus jusqu'à avoir fini. La documentation a bien avancé.
+
+**16h40** : j'ai déjà réglé 2 des 6 choses pointées par Mr. Jossi. Le reste ne devrait plus prendre longtemps.
 ## 🟣20.05.2021  
