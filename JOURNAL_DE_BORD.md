@@ -1,6 +1,6 @@
 # Journal de bord 📖  
 
-## 🟣03.05.2021
+## • 03.05.2021
 **7h30** : Début du TPI. J'ai commencé cette première journée en fixant les objectifs pour la journée et je ferai cette démarche tous les matins. Aujourd'hui, l'objectif est de prendre connaissance des infos principales présentes dans l'énoncé (Matériel à dispo, descriptif du projet, livrables) et d'en déterminer l'ensemble des tâches à réaliser pour mener à bien le projet, et ensuite me mettre à la doc. selon le temps à disposition. La première étape de la méthode des 6 étapes, *S'informer*, devrait donc être effectuée à la fin de la matinée. 
 
 **8h30** : J'ai une question par rapport à l'énoncé qui spécifie un nombre précis d'heures pour respectivement l'analyse, l'implémentation, les tests et la documentation, suis-je obligé de les respecter à la lettre dans mon planning ? J'ai posé la question à Mr. Jossi, et il m'a répondu que c'était pour donner un ordre d'idée afin de m'aider à réaliser mon planning. Je peux donc procéder à la création de ce dernier en gardant à l'esprit ces estimations pour ne pas me retrouver avec un planning irréaliste.
@@ -23,7 +23,7 @@
 
 **16h40** : Fin de la première journée, j'ai fini la base de données et j'ai commencé l'implémentation.
 
-## 🟣04.05.2021
+## • 04.05.2021
 **7h30** : J'avais un petit trou de mémoire concernant l'utilisation de bootstrap alors j'ai regardé une ou deux vidéos explicatives sur le chemin de l'école. Je vais me concentrer sur la maquette du style à appliquer à toutes mes pages pour l'instant et je passerai à l'implémentation des pages en elles-même plus tard. Pour aujourd'hui, je vais me fixer l'objectif d'avoir un style complet pour toutes mes pages, une page d'accueil redirigeant vers les autres pages correctement, et une création d'utilisateur qui fonctionne correctement avec la base de données.
 
 **9h40** : La page d'accueil est terminée et redirige correctement vers les autres pages (vides pour le moment). J'ai un bon début de style bootstrap avec une barre de navigation qui fonctionne comme prévu dans les maquettes vue utilisateur. A voir la partie bdd maintenant.
@@ -34,7 +34,7 @@
 
 **16h40** : J'ai continué à travailler sur le formulaire de création d'utilisateur, il y a un problème au niveau de l'ordre dans lequel les données sont enregistrées que j'ai détecté, je le règlerai demain matin. À part ça, le formulaire et ses conditions fonctionnent. L'objectif de la journée est presque entièrement rempli, le style s'applique correctement aux pages du site, la page d'accueil est complète et redirige vers chaque autre page. J'ai malheureusement perdu un peu de temps sur le formulaire à cause d'erreurs bêtes de requètes de la base de données, mais je suis quand même satisfait d'avoir rempli mes objectifs de la journée dans les temps du planning prévisionnel.
 
-## 🟣05.05.2021
+## • 05.05.2021
 **7h30** : Début de la journée, je vais me concentrer sur le fait de régler ce problème de formulaire register. Pour résumer, la table utilisateur est réglée de telle sorte à ce qu'elle doive reçevoir les données dans cet ordre précis : idUtilisateur, pseudo, mot de passe, email, admin. Le problème est simplement que j'envoie l'email à la place du mdp et vice-versa. Une fois ce problème réglé, je passerai sur la page login afin d'accorder les 2. J'essaierai d'avancer le plus possible sur cette dernière, l'objectif étant (selon le planning prévisionnel) d'avoir les 2 pages entièrement fonctionnelles avant demain soir.
 
 **7h59** : J'ai réussi à régler le problème dans le code comme dans la base de données, un autre problème était que j'avais réglé le champ "mot de passe" de telle sorte à ce qu'il n'accepte que des chaines d'une 40aine de caractères, n'ayant pas prévu que j'allais le hasher avant de l'insérer (c'est à dire le transformer en une chaine de caractères aléatoires pour le protéger mais par conséquent augmenter considérablement son nombre de caractères).
@@ -53,7 +53,7 @@
 
 **16h40** : Lorsqu'on se login, les infos sont retenues et gardées à travers toutes les pages, ce qui fait que l'utilisateur est bien connecté. La page déconnexion marche parfaitement également. Il reste ce problème de validation du login que je dois régler. J'ai déjà créé le formulaire de création de critique.
 
-## 🟣06.05.2021
+## • 06.05.2021
 **12h40** : Je ne me suis pas rendu à l'école ce matin, ne me sentant pas bien ni en mesure de travailler. Je reprends donc le travail maintenant, avec pour objectif de boucler cette partie login avant la fin de l'après-midi. 
  
  **13h38** : J'ai demandé à Mr.Jossi si le fait que le formulaire login ne demande que le mot de passe et l'email posait problème, et il m'a repondu que non, car la plupart des sites marchent en effet de cette manière. Cela m'arrange, car mes fonctions posaient problème à ce niveau, et désormais, je n'ai qu'à vérifier si l'user existe selon le mdp et l'email qu'on a entré.  
@@ -64,9 +64,9 @@
 
 **14h54** : J'ai réglé le problème cité à **13h45**, désormais, le pseudo passe également si on arrive à se connecter. J'ai cependant un autre problème : On peut se connecter au site avec le mot de passe d'un compte et l'email d'un autre. La tâche avance, désormais, seules les infos existantes dans la bdd sont acceptées. Maintenant, il faut qu'elles concordent.
 
-## ⚪Congé du 07-09.05.2021
+## • Congé du 07-09.05.2021
 
-## 🟣10.05.2021
+## • 10.05.2021
 **7h40** : Je dois avouer que la perte de temps sur la page login m'a légèrement stressé. Ce weekend, j'ai pensé à certaines manières de régler le problème de vérifications des champs que me pose cette page depuis quelques jours, et je les ai testé en arrivant ce matin. Changer la condition de verification des champs était bien la chose à faire mais je ne trouvais pas comment. Je l'ai changé afin qu'elle vérifie la taille de l'array (tableau de données) qu'envoyait le bouton submit sur lequel on clique. Si elle est de 0, ça veut dire que l'array est vide et que, par conséquent, on a envoyé aucune donnée et le login a échoué. Cette méthode marche pour le moment. J'ai donc réglé le problème de la page login et peux passer à l'implémentation du reste du site pour le moment. Mon objectif de la journée serait d'avoir un début de page "Créer un post" avec une liste de films insérée dans la base de données. Le formulaire devrait nous proposer de choisir un film existant dans la bdd et de rédiger une critique avec une note à son sujet. Je vais commencer par ajouter les films dans la bdd.
 
 **8h30** : Je me demande comment ajouter une image dans le champ du même nom manuellement dans la bdd. Je sais comment m'y prendre lorsqu'il s'agit d'en ajouter une via un formulaire, mais ici ce n'est pas le cas. J'ai donc posé la question à M. Jossi. En attendant la réponse, je continue sur la documentation.
@@ -77,7 +77,7 @@
 
 **15h30** : M. Jossi m'a communiqué par mail une liste de choses qui ne vont pas dans mon travail et que je dois améliorer comme un planning mauvais ou des requètes SQL pas toujours sécurisées entre autres. Je m'arrête de travailler sur ce que je faisais jusqu'à ce que tout soit réglé. L'objectif est de régler cela avant sa visite prévue pour mercredi. 
 
-## 🟣11.05.2021
+## • 11.05.2021
 **7h30** : Comme prévu, je vais me concentrer sur les problèmes pointés par M. Jossi avant de me remettre sur les pages sur lesquelles je travaille. 
 
 **8h46** : J'ai posé plusieurs questions à mon maître d'apprentissage sur l'énoncé et le planning prévisionnel, j'aurais besoin de sa réponse pour savoir si les modifications sont valides. En attendant, je continue sur la documentation pour m'avancer au maximum. 
@@ -86,7 +86,7 @@
 
 **16h40** : J'ai bien avancé sur la page de création de posts, je devrais pouvoir la faire marcher demain. Afficher ces derniers sur la page Forum ne devrait pas poser de problèmes non-plus. Je testerai certaines choses demain matin pour finaliser la page création de posts.
 
-## 🟣12.05.2021
+## • 12.05.2021
 **7h30** : Aujourd'hui, mes objectifs sont de finaliser la page de création de posts et avancer le plus possible sur le reste.
 
 **9h19** : J'ai réglé plusieurs problèmes :  
@@ -96,9 +96,9 @@ Page profil : Les informations de l'utilisateur apparaissent dans son profil et 
 Page créer post : Les informations du post sont bien récupérées après qu'on ait cliqué sur le bouton submit. Il reste maintenant à régler les conditions de validation pour qu'elles soient envoyées dans la base.
 
 **12h40** : Il semblerait qu'il y ait deux ou trois erreurs dans mes fonctions qui posent problème dans la modification d'utilisateur ainsi que dans la création de posts. Je dois me renseigner sur comment les faire marcher avec ma base de données. Si je les règle, deux des plus grosses tâches du projet seront accomplies, et il ne me restera que :  
-🔴 La lecture de posts : simple echo de code HTML avec dedans les données de post récupérées précédemment.   
-🔴 L'affichage de notre vidéothèque : pareil mais ici avec la modification/suppression en plus. Une fois ma fonction de modification d'utilisateur finie, il ne me restera qu'à l'adapter aux données d'un film à la place.  
-🔴 La page info des films : Ici aussi, simple code html rempli par les données du film en question. 
+• La lecture de posts : simple echo de code HTML avec dedans les données de post récupérées précédemment.   
+• L'affichage de notre vidéothèque : pareil mais ici avec la modification/suppression en plus. Une fois ma fonction de modification d'utilisateur finie, il ne me restera qu'à l'adapter aux données d'un film à la place.  
+• La page info des films : Ici aussi, simple code html rempli par les données du film en question. 
 
 Après cela, je ferai une phase de tests finale et le projet devrait être terminé.
 
@@ -106,9 +106,9 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 
 **16h40** : J'ai réglé la quasi totalité des problèmes soulevés par M. Jossi pour le moment ainsi que la modification d'utilisateur. Il reste peut-être rajouter des détails dans mon analyse technique si certains manquent. Je dois maintenant me concentrer sur le travail pour perdre le moins de temps possible et pouvoir le terminer à 100%. 
 
-## ⚪Congé du 13-16.05.2021
+## • Congé du 13-16.05.2021
 
-## 🟣17.05.2021
+## • 17.05.2021
 **7h30** : Je m'attaque à la création/lecture de posts et la page info des films. Cela ne devrait pas me prendre trop de temps comme expliqué précedemment. Après cela, je continuerai sur l'affichage de la vidéothèque et des critiques de l'utilisateur. J'ai groupé ces 4 tâches par 2 car elles sont plus ou moins complémentaires l'une pour l'autre, dans le sens où après en avoir fini une, l'autre deviens alors simple.  
 
 **8h44** : J'ai terminé la création de posts.
@@ -120,13 +120,13 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 **15h15** : La création, validation, lecture de posts est terminée. Un utilisateur voit dans la partie "mes critiques" les critiques qu'il a posté et si elles ont été validées ou non. Il me reste à afficher les critiques d'un film sur la page personalisée de ce dernier.
 
 **16h40** : Il ne me reste que la liste de critiques à afficher dans la page info des films et j'aurai déjà une version fonctionnelle du site avec toutes les fonctionnalités présentes. Pour l'instant, un tableau s'affiche corrèctement, je dois simplement faire en sorte que seules les critiques du film en question apparaissent. Je finirai certainement demain, puis je passerai aux commentaires et à la documentation du projet.
-## 🟣18.05.2021
+## • 18.05.2021
 
 **8h08** : J'ai finalisé l'affichage des critiques sur la page info des films. Désormais, seules les critiques correspondant au film sur lequel on est apparaissent. Aujourd'hui, je vais me focus sur : finaliser le site (modification de critique, commentaires, sécurisation, continuer la documentation).
 
 **16h40** : J'ai bien avancé sur la documentation et à ce stade, j'ai presque entièrement terminé mon application à l'exception de la modification de critiques qui pose un léger problème. Cela devrait être réglé sans trop de mal avant la fin du délai. 
 
-## 🟣19.05.2021
+## • 19.05.2021
 **7h30** : Je vais me concentrer pour cette journée sur : avancer un maximum la documentation avec les tests que j'aurai effectué, finir de commenter le code, régler les derniers problèmes dans le code.
 
 **8h40** : J'ai entièrement fini de commenter le code du projet, je continue sur la documentation.
@@ -134,7 +134,7 @@ Après cela, je ferai une phase de tests finale et le projet devrait être termi
 **16h** : Mr. Jossi m'a fait plusieurs remarques sur ce qu'il manquait dans le site. Je les ai noté et je me concentrerai dessus jusqu'à avoir fini. La documentation a bien avancé.
 
 **16h40** : j'ai déjà réglé 2 des 6 choses pointées par Mr. Jossi. Le reste ne devrait plus prendre longtemps.
-## 🟣20.05.2021  
+## • 20.05.2021  
 **7h30** : Dernier jour de ce TPI. Aujourd'hui, je vais terminer la documentation et tenter de régler les certains problèmes restant sur mon site. Ces derniers sont : les infos des films de n'affichent pas correctement sur la page Infos Films, les films dans la section "Ma vidéothèque" de la page profil ne comportent pas de bouton pour rediriger vers leur page infos, le formulaire de création de films n'est pas complet, la modification de critiques est impossible, la modification d'utilisateur doit nécessiter une validation du mot de passe, et finalement, il manque un crud de création de films pour utilisateur (on ne peut que les créer via la base de données pour l'instant). 
 Il sera dur de régler tous ces problèmes en l'espace d'une journée, mais je vais faire tout ce que je peux pour rendre un projet le plus propre possible sans bug apparant.
 
