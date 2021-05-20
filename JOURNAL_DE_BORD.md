@@ -1,4 +1,4 @@
-# Journal de bord 📖  
+# Journal de bord
 
 ## • 03.05.2021
 **7h30** : Début du TPI. J'ai commencé cette première journée en fixant les objectifs pour la journée et je ferai cette démarche tous les matins. Aujourd'hui, l'objectif est de prendre connaissance des infos principales présentes dans l'énoncé (Matériel à dispo, descriptif du projet, livrables) et d'en déterminer l'ensemble des tâches à réaliser pour mener à bien le projet, et ensuite me mettre à la doc. selon le temps à disposition. La première étape de la méthode des 6 étapes, *S'informer*, devrait donc être effectuée à la fin de la matinée. 
