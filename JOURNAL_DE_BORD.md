@@ -140,3 +140,5 @@ Il sera dur de régler tous ces problèmes en l'espace d'une journée, mais je v
 
 **12h40** : Les problèmes suivant ont été réglés : les infos des films s'affichent correctement sur leur page, les films dans la section "Ma vidéothèque" comportent maintenant un bouton de redirection vers leur page d'infos, et la modification de compte se fait maintenant avec une double vérification de mot de passe. La documentation avance bien. Je suis en train de terminer le manuel utilisateur. J'ai également amélioré l'affichage de l'ensemble des commentaires de ma page de requètes en y ajoutant des informations à l'aide des "@param" et @return" qui expliquent ce que la fonction reçoit en paramètre et ce qu'elle retourne.  J'ai également fait un diagramme de navigation pour complémenter ma documentation.
 
+
+**16h30** : J'ai finalisé la documentation. Je prépare le rendu de mon projet.
